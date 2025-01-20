@@ -1,4 +1,4 @@
-<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
+![alt text](?raw=true)(https://github.com/user-attachments/assets/f28a2271-e5f4-4a56-a871-65e39374d61b)
 
 # School of DumDum
 
